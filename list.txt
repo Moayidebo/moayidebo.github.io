@@ -1,7 +1,5 @@
 南方卫视,http://nclive.grtn.cn/tvs2/sd/live.m3u8
-
 珠江频道,http://nclive.grtn.cn/zjpd/sd/live.m3u8
-
 嘉佳卡通,http://nclive.grtn.cn/jjkt/sd/live.m3u8
 
 广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
