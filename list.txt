@@ -10,6 +10,7 @@ HBO HD,https://pulljd-live.baijiayun.com/live/234632065fbf425a85a643a4e22341f0.m
 香港有線電影台,https://pulljd-live.baijiayun.com/live/f6108096e770f1e6de71eafd2570be2e.m3u8
 香港有線新聞台,https://pulljd-live.baijiayun.com/live/c8edc80d6cacfb09d46c4f4a965672d4.m3u8
 動物星球,http://192.154.103.75:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+南方卫视,http://nclive.grtn.cn/tvs2/sd/live.m3u8?_ts
 珠江频道,http://nclive.grtn.cn/zjpd/sd/live.m3u8
 嘉佳卡通,http://nclive.grtn.cn/jjkt/sd/live.m3u8
 广东体育,http://cdn12.switchium.com/gdty.m3u8#http://nclive.grtn.cn/typd/sd/live.m3u8
